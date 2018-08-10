@@ -188,8 +188,8 @@ body.call {
     font-family: $font-monospace;
     font-size: 12px;
     position: fixed;
-    left: 1rem;
     right: 1rem;
+    left: 1rem;
     top: 1rem;
     z-index: 3;
 
@@ -213,8 +213,7 @@ body.call {
     position: fixed;
     height: 100px;
     bottom: 0px;
-    right: 0px;
-    text-align: right;
+    left: 0px;
 
     $video-size: 100px;
 
